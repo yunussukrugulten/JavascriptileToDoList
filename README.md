@@ -3,9 +3,11 @@
 Bu repo [Patika.dev](https://www.patika.dev) *Javascript ile To Do List* ödevi için oluşturduğum bir diğer repo.
 
 ## Patika.dev Hesabım
+
 [Yunus Şükrü Gülten](https://app.patika.dev/yunussukrugulten)
 
 ## Proje Resmi
+
 ![github](img/JsToDoList.png)
 
 ## Installation
@@ -22,6 +24,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd JSClockOdev
+cd JavascriptileToDoList
 code .
 ```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
