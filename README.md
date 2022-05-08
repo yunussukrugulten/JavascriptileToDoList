@@ -1,33 +1,21 @@
-# Javascript ile To Do List
+## JavascriptileToDoList
+"What are you going to do today?" with JavaScript list.
 
-Bu repo [Patika.dev](https://www.patika.dev) *Javascript ile To Do List* ödevi için oluşturduğum bir diğer repo.
-
-## Patika.dev Hesabım
-
+## Patika.dev Account
 [Yunus Şükrü Gülten](https://app.patika.dev/yunussukrugulten)
 
-## Proje Resmi
-
+## Project Picture
 ![github](img/JsToDoList.png)
 
 ## Installation
-
-Öncelikle projeyi clonelayın.
-
 ```bash
 git clone https://github.com/yunussukrugulten/JavascriptileToDoList.git
 ```
-
 ## Usage
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
 ```linux
 cd JavascriptileToDoList
 code .
 ```
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
